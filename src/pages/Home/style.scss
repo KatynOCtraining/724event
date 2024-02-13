@@ -114,11 +114,15 @@ p {
 }
 
 .Pagination {
-  a {
+  Button {
     color: white;
     text-decoration: none;
     display: inline;
     margin: 2px;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    font-size: 16px;
   }
   margin-bottom: 50px;
 }
